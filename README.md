@@ -1,6 +1,7 @@
 # My forked project of CNA340
 
-One Paragraph of project description goes here
+Forked from https://github.com/RTCedu/CNA340
+
 This is my forked work of CNA340 IT Project Management, in the forked  project you can make changes with out changing the originel progarm.
 
 ## Getting Started
@@ -48,7 +49,8 @@ python 23.py
 ```
 
 ## Thanks
-To complete this assignment I got help from: 
-1. Google
+To complete this assignment I got help from:
+1. Dr. Zak, our teacher
+1. Google Search
 2. YouTube
-3. Senior Java developer
+3. Avaya Senior Development Engineer
